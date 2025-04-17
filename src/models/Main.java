@@ -7,11 +7,11 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Welcome to the Java Fitness Tracker!");
-        System.out.print("Create username: ");
+        System.out.println("Welcome to the FitBee!");
+        System.out.print("Enter username: ");
         String username = sc.nextLine();
 
-        System.out.print("Create password: ");
+        System.out.print("Enter password: ");
         String password = sc.nextLine();
 
         System.out.print("Enter height (in meters): ");
@@ -64,7 +64,7 @@ public class Main {
                     sc.nextLine(); // consume newline
                     System.out.print("Goal Type (e.g., Weight Loss): ");
                     String goalType = sc.nextLine();
-                    System.out.print("Target Calories: ");
+                    System.out.print("Target Calories Deficit: ");
                     int targetCalories = sc.nextInt();
                     System.out.print("Target Weight (kg): ");
                     double targetWeight = sc.nextDouble();

@@ -4,7 +4,7 @@ public class User {
     private String username;
     private String password;
     private double height; // in meters
-    private double weight; // in
+    private double weight; // in kg
 
     public User(String username, String password, double height, double weight) {
         this.username = username;
