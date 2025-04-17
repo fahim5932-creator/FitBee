@@ -53,3 +53,5 @@ Java (Core OOP Concepts)
 File I/O (FileWriter for data export)
 
 Java Standard Libraries (Scanner, LocalDate, List, etc.)
+
+This project is open source and available under the MIT License.
