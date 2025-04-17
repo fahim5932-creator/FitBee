@@ -1,4 +1,5 @@
 FitBee – 
+
 FitBee Fitness Tracker is a simple yet powerful console-based application built in Java to help users monitor and manage their personal fitness goals. The app allows users to log workouts and meals, calculate BMI, set health goals, and export progress data for review. Designed with modular OOP principles, this lightweight tracker is ideal for personal use or as a foundation for more advanced health applications.
 
 ✅ Key Features
